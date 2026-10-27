@@ -1,4 +1,4 @@
-# Stock LSTM Prediction API (Backend)
+# Stock LSTM Prediction API
 
 This is the backend service for the Stock LSTM Prediction API. It exposes endpoints to authenticate users, check service health, readiness, Prometheus metrics, and run next-day closing price predictions using a trained LSTM model.
 
